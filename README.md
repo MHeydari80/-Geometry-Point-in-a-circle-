@@ -4,6 +4,7 @@ This program prompts the user to enter a  point (x2, y2) and checks whether the 
 ### Here are two sample runs as shown:
 
 
-![01](https://user-images.githubusercontent.com/41565191/56336864-52593c00-61b7-11e9-9c4f-a6e7ad245ecf.PNG)
 
-![02](https://user-images.githubusercontent.com/41565191/56336885-69982980-61b7-11e9-83ae-bb60f820b7cc.PNG)
+![01](https://user-images.githubusercontent.com/41565191/56336937-c72c7600-61b7-11e9-91ce-c57a62255fbc.PNG)
+
+![02](https://user-images.githubusercontent.com/41565191/56336939-c72c7600-61b7-11e9-9b8c-5df44c5651c2.PNG)
